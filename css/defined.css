@@ -1,0 +1,43 @@
+.def-footer-bg-color{
+    background-color: #039ee3;
+    color: white;
+}
+
+.def-footer-txt{
+    color: white;
+}
+.ftco-footer{
+    background-color: black;
+}
+
+.txt-666{
+    color: #666666;
+}
+
+.txt-white{
+    color:  white;
+}
+
+.menu-area{
+    position: static;
+}
+
+.mega-area{
+    position: absolute;
+    width: 100%;
+    left: 0;
+    right: 0;
+    padding: 15px;
+}
+
+.dropdown-item{
+    padding: 5px 0;
+}
+
+.h5{
+    
+    /*font-family: BigNoodleTitling;    change the font-style */
+    letter-spacing: 2px;
+    font-weight: 900;
+    
+}
